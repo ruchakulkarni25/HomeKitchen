@@ -121,10 +121,12 @@ height: auto;
 padding-top:190px;
 padding-bottom:200px;
 color:#fff;
+
 }
 
 .head-main {
     color: #9a2617;
+    background-color: #fffacd;
     font-size:60px ;
     font-weight:900;
     border:5px double #fff;
@@ -137,16 +139,16 @@ color:#fff;
     font-weight:500;
     padding:50px 20px 10px 20px;
     text-transform:uppercase;
-    color: #0d3d56;
+    color: #fffacd;
     
 }
 .head-last {
     font-size:18px ;
     font-weight:900;
     padding:5px 20px 20px 20px;
-    border:1px dotted #422152;
+    border:1px dotted #ffffff;
     padding:5px;
-    color: #422152;
+    color: #ffffff;
 }
 
 
